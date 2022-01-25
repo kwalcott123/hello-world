@@ -1,2 +1,3 @@
 # hello-world
-This is my new repository 
+
+These are my changes to the hello world file 
